@@ -5,6 +5,11 @@
 //  Created by Gal Argov on 22/12/2018.
 //  Copyright © 2018 Gal Argov Sofer. All rights reserved.
 //
+/*  References:
+ *  http://www.cplusplus.com/reference/cstdlib/itoa/
+ *  https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/itoa.htm
+ *  https://www.geeksforgeeks.org/implement-itoa/
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
